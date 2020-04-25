@@ -30,7 +30,7 @@ videoid="false"
 icon="https://pbs.twimg.com/profile_images/1088194148837064704/OfEYTbpS_400x400.jpg"
 fanart="https://cbsnews3.cbsistatic.com/hub/i/r/2019/04/01/727e357a-a126-4138-a2c5-4d3222669d57/thumbnail/1920x1080/6cf41fcba0c5e4418c548fd8f270265d/cbsn2-logo-1920x1080.jpg"
 description="CBS News"
-
+ 
 name="CNN"
 section="false"
 search="false"
