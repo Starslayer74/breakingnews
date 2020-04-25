@@ -5,7 +5,7 @@ subid="false"
 playlistid="false"
 channelid="UCBi2mrWuNuyYy4gbM6fU18Q"
 videoid="false"
-icon="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png
+icon="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png"
 fanart="https://cdn.abcotvs.com/dip/images/3627641_abcnews1280.jpg"
 description="ABC News"
 
