@@ -137,7 +137,7 @@ subid="false"
 playlistid="false"
 channelid="UChqUTb7kYRX8-EiaN3XFrSQ"
 videoid="false"
-icon="https://cpng.pikpng.com/pngl/s/471-4713471_reuters-logo-png-transparent-vector-thomson-reuters-logo.png"
+icon="https://banner2.cleanpng.com/20180521/iib/kisspng-thomson-reuters-corporation-logo-newsrewired-thomson-reuters-corporation-5b035be52371c9.1248140015269467891452.jpg"
 fanart="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"
 description="Reuters"
 
